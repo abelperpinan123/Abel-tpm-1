@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; color: white;
+    font-size: 18px;
+   background-color: rgb(0, 0, 0);
+}
+
+.ancho50 {
+    width: 50%;
+    background-color: rgb(191, 13, 13);
+    border: #333333 solid 2px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    box-shadow: #ffffff 5px 5px 5px;10px;
+
+}
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: justify;
+    box-shadow: #fffff 5px 5px 5px;10px;
+    opacity: 0.5;
+
+    margin 20px 40px 20px 40px;
+}
+
+.padding{
+    width: 80%;
+    padding: 20px;
+    background-color: rgb(154, 153, 153);
+    border: #ff0000 solid 2px;
+    margin-bottom: 40px;
+   box-shadow: #ffffff 5px 5px 5px;10px;
+}
